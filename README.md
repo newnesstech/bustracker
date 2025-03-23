@@ -1,2 +1,2 @@
-# bustrackergit clone https://github.com/yourusername/bustracker.git
+# bustrackergit clone https://github.com/newnesstech/bustracker.git
 cd bustracker
